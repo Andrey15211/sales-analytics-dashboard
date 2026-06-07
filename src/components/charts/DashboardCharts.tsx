@@ -127,7 +127,10 @@ export function DashboardCharts({ orders, range, dictionary, locale }: Props) {
                     <Pie data={statuses} dataKey="value" innerRadius={47} outerRadius={67} paddingAngle={3} stroke="none">
                       {statuses.map((entry) => <Cell key={entry.name} fill={statusColors[entry.name as Order["status"]]} />)}
                     </Pie>
-                    <Tooltip contentStyle={tooltipStyle} />
+                    <Tooltip
+                      contentStyle={tooltipStyle}
+                      formatter={(value, name) => [Number(value), statusLabel(String(name))]}
+                    />
                   </PieChart>
                 </ResponsiveContainer>
                 <div className="pie-total"><strong>{orders.length}</strong><span>{dictionary.charts.orders}</span></div>

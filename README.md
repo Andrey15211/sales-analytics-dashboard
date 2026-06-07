@@ -1,5 +1,10 @@
 # Sales Analytics Dashboard
 
+## Links
+
+- GitHub: https://github.com/Andrey15211/sales-analytics-dashboard
+- Live Demo: https://sales-analytics-dashboard-blush-sigma.vercel.app
+
 A standalone portfolio case study for sales data ingestion, validation, analytics, visualization, and table exploration. Russian is the default interface language; users can switch the complete UI to English.
 
 ## Description
