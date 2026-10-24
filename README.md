@@ -7,7 +7,7 @@
 
 Sales Analytics Dashboard is a bilingual frontend case study for sales-data ingestion and analysis. It starts with deterministic demo orders and lets users explore KPIs, date ranges, charts, filters, a paginated table, or replace the in-memory dataset with a validated CSV file.
 
-## Live Demo
+## 🚀 Live Demo
 
 https://sales-analytics-dashboard-blush-sigma.vercel.app
 
