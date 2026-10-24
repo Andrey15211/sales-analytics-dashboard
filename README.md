@@ -86,3 +86,11 @@ Deployed on Vercel with the Vite preset, `npm run build`, and `dist` as the outp
 ## Recommended GitHub Topics
 
 `sales-dashboard` `analytics-dashboard` `data-visualization` `react` `vite` `typescript` `recharts` `tanstack-table` `papaparse` `vercel`
+
+---
+
+## Contact
+
+**Telegram:** [@andrey15211](https://t.me/andrey15211)  
+**Email:** andrejbadalin8@gmail.com  
+**GitHub:** [Andrey15211](https://github.com/Andrey15211)
